@@ -23,6 +23,6 @@ Launch the application on your local development environment.
 We welcome contributions to improve the Electronic Vehicle Recharge Bunk project. If you find any issues or have suggestions for new features, please open an issue or submit a pull request on our GitHub repository.
 
 # Contact
-For any inquiries or support regarding the Electronic Vehicle Recharge Bunk project, please reach out to at vishwajeetroundhal0@gmail.com. 
+For any inquiries or support regarding the Electronic Vehicle Recharge Bunk project, please reach out to at sanjumarley17@gmail.com. 
 
 Thank you for your interest in my project!
